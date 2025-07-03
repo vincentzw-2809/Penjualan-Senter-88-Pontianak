@@ -1,7 +1,7 @@
 services:
   - type: web
     name: penjualan-senter-88
-    env: php
+    runtime: php
     branch: main
     buildCommand: |
       composer install --no-dev
