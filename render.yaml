@@ -1,12 +1,11 @@
 services:
   - type: web
     name: penjualan-senter-88
-    runtime: php
+    runtime: docker
+    repo: https://github.com/vincentzw-2809/Penjualan-Senter-88-Pontianak
     branch: main
-    buildCommand: |
-      composer install --no-dev
-      php artisan key:generate
-    startCommand: php artisan serve --host 0.0.0.0 --port 10000
+    rootDir: .
+    plan: free
     envVars:
       - key: APP_ENV
         value: production
