@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "province": "Aceh",
+    "city_name": "Banda Aceh",
+    "type": "Kota"
+  },
+  {
+    "id": "2",
+    "province": "Sumatera Utara",
+    "city_name": "Medan",
+    "type": "Kota"
+  },
+  {
+    "id": "3",
+    "province": "Riau",
+    "city_name": "Pekanbaru",
+    "type": "Kota"
+  },
+  {
+    "id": "4",
+    "province": "Sumatera Barat",
+    "city_name": "Padang",
+    "type": "Kota"
+  },
+  {
+    "id": "5",
+    "province": "Sumatera Selatan",
+    "city_name": "Palembang",
+    "type": "Kota"
+  },
+  {
+    "id": "6",
+    "province": "DKI Jakarta",
+    "city_name": "Jakarta Selatan",
+    "type": "Kota"
+  },
+  {
+    "id": "7",
+    "province": "DKI Jakarta",
+    "city_name": "Jakarta Timur",
+    "type": "Kota"
+  },
+  {
+    "id": "8",
+    "province": "Jawa Barat",
+    "city_name": "Bandung",
+    "type": "Kota"
+  },
+  {
+    "id": "9",
+    "province": "Jawa Tengah",
+    "city_name": "Semarang",
+    "type": "Kota"
+  },
+  {
+    "id": "10",
+    "province": "DI Yogyakarta",
+    "city_name": "Yogyakarta",
+    "type": "Kota"
+  },
+  {
+    "id": "11",
+    "province": "Jawa Timur",
+    "city_name": "Surabaya",
+    "type": "Kota"
+  },
+  {
+    "id": "12",
+    "province": "Banten",
+    "city_name": "Tangerang",
+    "type": "Kota"
+  },
+  {
+    "id": "13",
+    "province": "Bali",
+    "city_name": "Denpasar",
+    "type": "Kota"
+  },
+  {
+    "id": "14",
+    "province": "Kalimantan Barat",
+    "city_name": "Pontianak",
+    "type": "Kota"
+  },
+  {
+    "id": "15",
+    "province": "Kalimantan Timur",
+    "city_name": "Samarinda",
+    "type": "Kota"
+  },
+  {
+    "id": "16",
+    "province": "Sulawesi Selatan",
+    "city_name": "Makassar",
+    "type": "Kota"
+  },
+  {
+    "id": "17",
+    "province": "Nusa Tenggara Barat",
+    "city_name": "Mataram",
+    "type": "Kota"
+  },
+  {
+    "id": "18",
+    "province": "Papua",
+    "city_name": "Jayapura",
+    "type": "Kota"
+  },
+  {
+    "id": "19",
+    "province": "Lampung",
+    "city_name": "Bandar Lampung",
+    "type": "Kota"
+  },
+  {
+    "id": "20",
+    "province": "Maluku",
+    "city_name": "Ambon",
+    "type": "Kota"
+  }
+]
